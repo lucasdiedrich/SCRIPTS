@@ -1,0 +1,6 @@
+dn: %USERDN
+changetype: modify
+replace: userPassword
+userPassword: %PASSWORD
+
+
